@@ -43,6 +43,7 @@ let pontuacao = 0;
 4. Sistema de Pontuação Triplo
 
 🎯 Busca Direta (2 pontos)
+
 for (const palavra of palavrasBusca) {
 if (textoCompleto.includes(palavra)) {
 pontuacao += 2;
@@ -52,6 +53,7 @@ pontuacao += 2;
 ● Exemplo: Usuário digita "pagamento" e encontra "pagamento" no artigo = +2 pontos
 
 🤝 Busca por Sinônimos (1.5 pontos)
+
 for (const [categoria, lista] of Object.entries(sinonimos)) {
 if (lista.includes(palavra)) {
 for (const sinonimo of lista) {
