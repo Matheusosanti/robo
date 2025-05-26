@@ -15,6 +15,7 @@ const palavrasBusca = input.split(' ').filter(p => p.length > 2);
 ● Exemplo: "como cancelar conta" → ["como", "cancelar", "conta"]
 
 2. Mapeamento de Sinônimos
+
 const sinonimos = {
 'cancelar': ['cancelar', 'cancelamento', 'desligar', 'desligamento', 'encerrar', 'encerramento'],
 'pagamento': ['pagamento', 'pagar', 'cobrança', 'fatura', 'boleto'],
@@ -40,6 +41,7 @@ let pontuacao = 0;
 ● pontuacao: Sistema de pontos que determina o quão relevante é o artigo
 
 4. Sistema de Pontuação Triplo
+
 🎯 Busca Direta (2 pontos)
 for (const palavra of palavrasBusca) {
 if (textoCompleto.includes(palavra)) {
