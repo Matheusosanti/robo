@@ -7,8 +7,11 @@ O código substituiu a busca simples por similaridade de strings por um sistema 
 
 1. Preparação das Palavras de Busca
 const palavrasBusca = input.split(' ').filter(p => p.length > 2);
+
 ● O que faz: Pega o texto digitado pelo usuário e quebra em palavras individuais
+
 ● Filtro: Remove palavras muito pequenas (menos de 3 letras) como "de", "da", "em"
+
 ● Exemplo: "como cancelar conta" → ["como", "cancelar", "conta"]
 
 3. Mapeamento de Sinônimos
@@ -31,7 +34,9 @@ const textoCompleto = `${chave} ${item.resumo}`.toLowerCase();
 let pontuacao = 0;
 
 ● O que faz: Percorre cada artigo da base de conhecimento
+
 ● textoCompleto: Junta o título do artigo + resumo em texto minúsculo para busca
+
 ● pontuacao: Sistema de pontos que determina o quão relevante é o artigo
 
 7. Sistema de Pontuação Triplo
