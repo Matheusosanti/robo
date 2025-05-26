@@ -18,6 +18,7 @@ const sinonimos = {
 'login': ['login', 'entrar', 'acesso', 'senha', 'usuário'],
 'alterar': ['alterar', 'mudar', 'modificar', 'trocar', 'editar'],
 };
+
 ● Propósito: Define grupos de palavras com significados similares
 ● Como funciona: Se o usuário digita "desligamento", o sistema também vai buscar
 por "cancelar", "encerrar", etc.
@@ -28,6 +29,7 @@ for (const chave of chaves) {
 const item = knowledgeBase[chave];
 const textoCompleto = `${chave} ${item.resumo}`.toLowerCase();
 let pontuacao = 0;
+
 ● O que faz: Percorre cada artigo da base de conhecimento
 ● textoCompleto: Junta o título do artigo + resumo em texto minúsculo para busca
 ● pontuacao: Sistema de pontos que determina o quão relevante é o artigo
@@ -38,6 +40,7 @@ for (const palavra of palavrasBusca) {
 if (textoCompleto.includes(palavra)) {
 pontuacao += 2;
 }
+
 ● Maior pontuação: Quando encontra a palavra exata no texto
 ● Exemplo: Usuário digita "pagamento" e encontra "pagamento" no artigo = +2 pontos
 
@@ -57,6 +60,7 @@ break;
 1. Verifica se a palavra digitada está em alguma lista de sinônimos
 2. Se sim, procura pelos outros sinônimos da mesma categoria no texto
 3. Se encontrar, adiciona 1.5 pontos
+
 ● Exemplo: Usuário digita "desligamento" → sistema busca "cancelar", "encerrar" →
 encontra "cancelar" no artigo = +1.5 pontos
 
@@ -68,6 +72,9 @@ if (sim > 0.7) {
 pontuacao += sim;
 }
 }
+
 ● Função: Encontra palavras muito parecidas (70%+ similaridade)
+
 ● Uso: Para erros de digitação ou variações da palavra
+
 ● Exemplo:"pagamento" vs "pagamento" = 0.9 de similaridade = +0.9 pontos
