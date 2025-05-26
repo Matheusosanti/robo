@@ -14,7 +14,7 @@ const palavrasBusca = input.split(' ').filter(p => p.length > 2);
 
 ● Exemplo: "como cancelar conta" → ["como", "cancelar", "conta"]
 
-3. Mapeamento de Sinônimos
+2. Mapeamento de Sinônimos
 const sinonimos = {
 'cancelar': ['cancelar', 'cancelamento', 'desligar', 'desligamento', 'encerrar', 'encerramento'],
 'pagamento': ['pagamento', 'pagar', 'cobrança', 'fatura', 'boleto'],
@@ -27,7 +27,7 @@ const sinonimos = {
 por "cancelar", "encerrar", etc.
 ● Expansível: Você pode adicionar mais categorias conforme necessário
 
-5. Loop Principal - Análise de Cada Artigo
+3. Loop Principal - Análise de Cada Artigo
 for (const chave of chaves) {
 const item = knowledgeBase[chave];
 const textoCompleto = `${chave} ${item.resumo}`.toLowerCase();
@@ -39,7 +39,7 @@ let pontuacao = 0;
 
 ● pontuacao: Sistema de pontos que determina o quão relevante é o artigo
 
-7. Sistema de Pontuação Triplo
+4. Sistema de Pontuação Triplo
 🎯 Busca Direta (2 pontos)
 for (const palavra of palavrasBusca) {
 if (textoCompleto.includes(palavra)) {
