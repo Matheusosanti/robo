@@ -1,0 +1,56 @@
+✅ Passo 1: Acesse o Portal de Desenvolvedores do Discord
+Acesse: https://discord.com/developers/applications
+
+Clique em "New Application".
+
+Dê um nome para seu bot e clique em "Create".
+
+✅ Passo 2: Crie o Bot
+No menu à esquerda, clique em "Bot".
+
+Clique em "Add Bot".
+
+Confirme em "Yes, do it!".
+
+Aqui você já terá o seu bot criado.
+
+✅ Passo 3: Pegue o Token do Bot (Atenção!)
+Na aba "Bot", clique em "Reset Token" (ou "Copy" se já tiver gerado).
+
+Copie e guarde seu Token com segurança (ele é como a senha do bot).
+
+⚠️ Nunca compartilhe seu token.
+
+✅ Passo 4: Configure as Permissões do Bot
+
+No menu "OAuth2" → "URL Generator".
+
+Na seção "Scopes", selecione:
+
+bot
+
+(Opcional) applications.commands (se tiver comandos de slash /)
+
+Na seção "Bot Permissions", marque as permissões que ele precisa. Exemplos comuns:
+
+Send Messages
+
+Read Message History
+
+Manage Messages
+
+Connect e Speak (para bots de música)
+
+Outras, dependendo da função do bot.
+
+✅ Passo 5: Gere o Link de Convite
+Após marcar os Scopes e Permissões, um link será gerado no final da página.
+
+Copie o link e acesse no navegador.
+
+✅ Passo 6: Adicione o Bot no seu Servidor
+Escolha o servidor (você precisa ter permissão de Administrador no servidor).
+
+Clique em "Authorize".
+
+Resolva o CAPTCHA se aparecer.
