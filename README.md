@@ -74,6 +74,8 @@ break;
 encontra "cancelar" no artigo = +1.5 pontos
 
 🔤 Similaridade Parcial (0.7+ pontos)
+
+
 const palavrasTexto = textoCompleto.split(' ');
 for (const palavraTexto of palavrasTexto) {
 const sim = stringSimilarity.compareTwoStrings(palavra, palavraTexto);
