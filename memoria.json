@@ -1,0 +1,354 @@
+{
+  "Esqueci minha senha do Genyo": {
+    "resumo": "Procedimento:",
+    "link": "https://genyo.com.br/suporte/usuario-esqueceu-senha"
+  },
+  "Importar logo da empresa nos relatórios": {
+    "resumo": "Procedimento:",
+    "link": "https://genyo.com.br/suporte/importar-logo"
+  },
+  "Como criar uma Unidade de Trabalho": {
+    "resumo": "Procedimento: Neste artigo vamos te ensinar como criar uma Unidade de Trabalho ou Filial se sua empresa possui mais de um CNPJ ou outro Centro de Custo.",
+    "link": "https://genyo.com.br/suporte/criar-uma-unidade-de-trabalho"
+  },
+  "Configurar Gestor aos colaboradores dentro de seu perfil": {
+    "resumo": "Procedimento:",
+    "link": "https://genyo.com.br/suporte/configurar-gestor-aos-colaboradores/"
+  },
+  "Cadastrar usuário Financeiro": {
+    "resumo": "Procedimento:",
+    "link": "https://genyo.com.br/suporte/cadastrar-usuario-financeiro"
+  },
+  "Cadastrar usuário Gestor": {
+    "resumo": "Procedimento:",
+    "link": "https://genyo.com.br/suporte/cadastrar-usuario-gestor"
+  },
+  "Cadastrar usuário administrador": {
+    "resumo": "Este simples passo a passo ensina como criar um usuário ‘Administrador’. O administrador possui acesso total ao sistema.",
+    "link": "https://genyo.com.br/suporte/cadastrar-usuario-administrador"
+  },
+  "Tipos de usuários": {
+    "resumo": "Administrador: O administrador tem acesso a todo sistema, sem restrição ou limitações.",
+    "link": "https://genyo.com.br/suporte/tipos-de-usuarios"
+  },
+  "E-mail de usuário em utilização": {
+    "resumo": "Procedimento:",
+    "link": "https://genyo.com.br/suporte/e-mail-de-usuario-em-utilizacao"
+  },
+  "Alterar e-mail de usuário super administrador": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como alterar o e-mail de usuário no Genyo. Para alterar o e-mail, é necessário que você esteja logado como usuário super administrador.",
+    "link": "https://genyo.com.br/suporte/e-mail-de-usuario-em-utilizacao"
+  },
+  "Funcionalidade Cerca Virtual": {
+    "resumo": "Procedimento:",
+    "link": "https://genyo.com.br/suporte/cerca-virtual"
+  },
+  "Como configurar o cálculo de fechamento por período": {
+    "resumo": "Procedimento: Neste artigo ensinaremos como configurar o cálculo de fechamento por período.",
+    "link": "https://genyo.com.br/suporte/calculo-de-fechamento-por-periodo"
+  },
+  "Como remover um feriado": {
+    "resumo": "Procedimento: Neste artigo vamos te ensinar a remover um feriado de um colaborador específico ou de todos os colaboradores no Calendário de Feriados e Recessos.",
+    "link": "https://genyo.com.br/suporte/remover-um-feriado"
+  },
+  "Como vincular um calendário de feriados": {
+    "resumo": "Procedimento: Neste artigo você vai aprender como vincular um calendário de feriados para um colaborador específico e também como vincular um calendário em lote.",
+    "link": "https://genyo.com.br/suporte/calendario-de-feriados"
+  },
+  "Como autorizar o uso da câmera pela web": {
+    "resumo": "Procedimento: Autorização do Navegador para Acesso à Câmera no Genyo",
+    "link": "https://genyo.com.br/suporte/autorizar-o-uso-da-camera-pela-web"
+  },
+  "Demitir um colaborador": {
+    "resumo": "Procedimento: Esse simples passo a passo ensina o que fazer no Genyo quando se desligar o colaborador da empresa.",
+    "link": "https://genyo.com.br/suporte/demitir-um-colaborador"
+  },
+  "Vincular escala aos colaboradores": {
+    "resumo": "Procedimento: Esse simples passo a passo ensina como vincular uma escala ao colaborador no Genyo. É possível fazer esse procedimento de duas formas distintas.",
+    "link": "https://genyo.com.br/suporte/vincular-escala-aos-colaboradores"
+  },
+  "Lançar férias, corrigir e excluir": {
+    "resumo": "Procedimento: Lançar, Corrigir e Excluir Férias no Genyo",
+    "link": "https://genyo.com.br/suporte/ferias-lancar-corrigir-e-excluir"
+  },
+  "Funcionalidade QR Code Controle de Ponto Genyo": {
+    "resumo": "Procedimento: A funcionalidade de QR Code Controle de Ponto da Genyo é uma forma alternativa do colaborador registrar ponto sem digitar o Número de Acesso sempre que acessar o aplicativo ou área web do sistema. Isso dá mais agilidade no registro de ponto, principalmente quando vários colaboradores usam o mesmo dispositivo de modo compartilhado.",
+    "link": "https://genyo.com.br/suporte/funcionalidade-qr-code"
+  },
+  "Como registrar ponto pela web?": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como se fazer o acesso do colaborador pelo computador para registrar ponto.",
+    "link": "https://genyo.com.br/suporte/registrar-ponto-pela-web"
+  },
+  "Como registrar ponto pelo aplicativo?": {
+    "resumo": "Procedimento de Instalação do Aplicativo Genyo: Como instalar o aplicativo Android na Play Store:",
+    "link": "https://genyo.com.br/suporte/como-registrar-ponto-pelo-aplicativo"
+  },
+  "Funcionalidade Ponto com Foto": {
+    "resumo": "Procedimento: A funcionalidade ponto com foto dá ainda mais segurança no registro de ponto. Com ela, a empresa elimina qualquer possibilidade de fraude nas marcações e garante que o ponto foi registrado de fato pelo colaborador em questão.",
+    "link": "https://genyo.com.br/suporte/ponto-com-foto"
+  },
+  "Como aprovar ou reprovar ponto editado pelo colaborador?": {
+    "resumo": "Procedimento: Quando você permite que um colaborador visualize e edite marcações no Genyo, você agiliza seu fechamento de folha.",
+    "link": "https://genyo.com.br/suporte/aprovar-ou-reprovar-ponto"
+  },
+  "Como sincronizar ponto off-line do aplicativo com o sistema": {
+    "resumo": "Procedimento: Pontos registrados sem internet (off-line) via aplicativo são automaticamente sincronizados com o servidor da Genyo. Basta que o aplicativo esteja aberto na tela de Número de Acesso ou no Histórico de Pontos.",
+    "link": "https://genyo.com.br/suporte/sincronizar-ponto-off-line"
+  },
+  "Solicitar autorização de dispositivo": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como solicitar a autorização de um dispositivo para se registrar ponto como colaborador usando o controle de ponto digital Genyo.",
+    "link": "https://genyo.com.br/suporte/solicitar-autorizacao-de-dispositivo"
+  },
+  "Ativar dispositivo autorizado": {
+    "resumo": "Procedimento: Neste artigo vamos te ensinar como ativar a funcionalidade do dispositivo autorizado, para o registro de ponto via web (desktop) ou aplicativo (celular/tablet).",
+    "link": "https://genyo.com.br/suporte/ativar-dispositivo-autorizado"
+  },
+  "Autorizar Dispositivo": {
+    "resumo": "Procedimento: Esse simples passo a passo ensina como autorizar uma solicitação de dispositivo no Genyo.",
+    "link": "https://genyo.com.br/suporte/autorizar-dispositivo"
+  },
+  "Funcionalidade Dispositivos Autorizados": {
+    "resumo": "Procedimento: Assim como a cerca virtual e também o ponto com foto, a funcionalidade dispositivos autorizados proporciona mais segurança no registro de ponto, pois restringe o apontamento a alguns dispositivos específicos como, por exemplo, um computador, celular ou tablet.",
+    "link": "https://genyo.com.br/suporte/funcionalidade-dispositivos-autorizados"
+  },
+  "Como interromper ciclagem de escalas": {
+    "resumo": "Procedimento: Neste artigo vamos te ensinar como interromper a ciclagem de escala para um colaborador em texto e vídeo:",
+    "link": "https://genyo.com.br/suporte/interromper-ciclagem-de-escalas"
+  },
+  "Ciclar escalas de trabalho": {
+    "resumo": "Procedimento: Neste artigo vamos te ensinar como criar uma ciclagem de escala em texto e vídeo:",
+    "link": "https://genyo.com.br/suporte/ciclar-escalas-de-trabalho"
+  },
+  "Quando usar um intervalo pré-assinalado ou abonado": {
+    "resumo": "Procedimento: Neste artigo vamos te mostrar sobre as opções de intervalo pré-assinalado ou intervalo abonado do Genyo e quando usar cada um deles.",
+    "link": "https://genyo.com.br/suporte/intervalo-pre-assinalado-ou-abonado"
+  },
+  "Conheça as tolerâncias de escala": {
+    "resumo": "Procedimento: Neste artigo, vamos apresentar todas as tolerâncias que o Genyo oferece e qual a melhor opção para sua empresa em relação aos colaboradores.",
+    "link": "https://genyo.com.br/suporte/tolerancias-de-escala"
+  },
+  "Escala folga fixa na semana. Como fazer no Genyo?": {
+    "resumo": "Procedimento: Neste artigo, vamos te ajudar a criar uma escala com jornada diária e folga durante a semana.",
+    "link": "https://genyo.com.br/suporte/escala-folga-fixa"
+  },
+  "Alterar Escala de Trabalho do Colaborador": {
+    "resumo": "Procedimento: Alterando a escala do colaborador - Controle de Ponto Eletrônico Digital Genyo",
+    "link": "https://genyo.com.br/suporte/alterar-escala-de-trabalho-do-colaborador"
+  },
+  "Como criar uma escala de trabalho de segunda a sexta": {
+    "resumo": "Procedimento: Este simples passo a passo ensina a cadastrar a escala de trabalho de segunda a sexta-feira, com horários de expediente iguais ou distintos.",
+    "link": "https://genyo.com.br/suporte/como-criar-uma-escala-de-segunda-sexta-feira"
+  },
+  "Como criar uma escala de segunda a sábado": {
+    "resumo": "Procedimento: Este simples passo a passo ensina a cadastrar a escala de segunda a sábado usando o controle de ponto digital da Genyo.",
+    "link": "https://genyo.com.br/suporte/como-criar-uma-escala-de-segunda-sabado"
+  },
+  "Como criar uma escala livre": {
+    "resumo": "Procedimento: Este simples passo a passo ensina a cadastrar a escala de trabalho do tipo livre.",
+    "link": "https://genyo.com.br/suporte/como-criar-uma-escala-livre"
+  },
+  "Como criar uma escala 12×36 ou 24×72": {
+    "resumo": "Procedimento: Este simples passo a passo ensina a cadastrar escala 12×36 ou 24×72.",
+    "link": "https://genyo.com.br/suporte/como-criar-uma-escala-12x36-ou-24x72"
+  },
+  "Como criar escala 5×1 4×2 e similares": {
+    "resumo": "Procedimento: Este simples passo a passo ensina a cadastrar escala 5×1, 4×2 e similares, de acordo com a necessidade de sua empresa.",
+    "link": "https://genyo.com.br/suporte/como-criar-uma-escala-5x1-4x2-e-similares"
+  },
+  "Como arquivar ou excluir escala de trabalho": {
+    "resumo": "Procedimento: Deseja arquivar ou excluir escala de trabalho?",
+    "link": "https://genyo.com.br/suporte/arquivar-ou-excluir-escala-de-trabalho"
+  },
+  "Férias coletivas": {
+    "resumo": "Procedimento: 1. Acesse o menu lateral ‘Feriados e recessos’.",
+    "link": "https://genyo.com.br/suporte/ferias-coletivas"
+  },
+  "Lançar Feriados e Recessos": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como lançar um feriado ou recesso no Genyo.",
+    "link": "https://genyo.com.br/suporte/lancar-feriados-e-recessos"
+  },
+  "Funcionalidade Alertas Inteligentes": {
+    "resumo": "Procedimento: A funcionalidade na web",
+    "link": "https://genyo.com.br/suporte/funcionalidade-alertas-inteligentes"
+  },
+  "Procedimento: Horas excedentes e noturnas": {
+    "resumo": "Procedimento: Horas excedentes e noturnas",
+    "link": "https://genyo.com.br/suporte/calculo-de-horas-excedentes-e-noturna"
+  },
+  "Funcionalidade Registro de Atividades do Colaborador – Via Web": {
+    "resumo": "Procedimento: Registro de Atividades do Colaborador – Via Web",
+    "link": "Original'."
+  },
+  "Integração via API da Genyo": {
+    "resumo": "Procedimento: Geração de Chave de Integração Via API",
+    "link": "https://genyo.com.br/suporte/integracao-via-api-da-genyo"
+  },
+  "Integração com relógio de ponto": {
+    "resumo": "Procedimento: Cadastro do REP e Integração com o Genyo",
+    "link": "https://genyo.com.br/suporte/integracao-com-relogio-de-ponto"
+  },
+  "Funcionalidade Registro de Atividades – Administrador": {
+    "resumo": "Procedimento: Criação e Vinculação de Registro de Atividades pelo Gestor - Genyo",
+    "link": "https://genyo.com.br/suporte/funcionalidade-registro-de-atividades"
+  },
+  "Dificuldade com a integração de relógio de ponto": {
+    "resumo": "Procedimento: Integração de Relógio de Ponto com a Genyo",
+    "link": "https://genyo.com.br/suporte/dificuldade-com-integracao-de-relogio-de-ponto"
+  },
+  "Advertência Eletrônica": {
+    "resumo": "Procedimento: Criação de Advertências Eletrônicas no Genyo",
+    "link": "https://genyo.com.br/suporte/advertencia-eletronica"
+  },
+  "Chat com o Colaborador": {
+    "resumo": "Procedimento: Funcionalidade de Chat no Plano Gestão Inteligente",
+    "link": "https://genyo.com.br/suporte/chat-com-o-colaborador"
+  },
+  "Como corrigir horário de verão ou horário errado no aplicativo": {
+    "resumo": "Procedimento: Correção de Horário no Aplicativo Genyo",
+    "link": "https://genyo.com.br/suporte/corrigir-horario-de-verao"
+  },
+  "Aplicativo do empregador": {
+    "resumo": "Procedimento: Acesso à Área do Empregador no Genyo",
+    "link": "Genyo"
+  },
+  "Lentidão no sistema web": {
+    "resumo": "Procedimento: Resolução de Lentidão no Sistema Web da Genyo",
+    "link": "https://genyo.com.br"
+  },
+  "Como criar regra de email no Hotmail": {
+    "resumo": "Procedimento: Criar Regra de Email no Hotmail/Outlook para Comprovantes de Ponto",
+    "link": "https://genyo.com.br/suporte/como-criar-regra-de-email-no-hotmail"
+  },
+  "Como criar regra de email no Gmail": {
+    "resumo": "Procedimento: Criar Regra de Email no Gmail para Comprovantes de Ponto",
+    "link": "https://genyo.com.br/suporte/como-criar-regra-de-email-no-gmail"
+  },
+  "Lançar Saldo de Banco de Horas": {
+    "resumo": "Procedimento: Lançar Saldo de Banco de Horas no Genyo",
+    "link": "https://genyo.com.br/suporte/lancar-saldo-de-banco-de-horas"
+  },
+  "Lançar Abatimento de Banco de Horas": {
+    "resumo": "Procedimento: Lançar Abatimento de Banco de Horas no Genyo",
+    "link": "https://genyo.com.br/suporte/lancar-abatimento-de-banco-de-horas"
+  },
+  "Visualizar e reverter ações em lote retroativas": {
+    "resumo": "Procedimento: Reverter Ações em Lote no Genyo",
+    "link": "https://genyo.com.br/suporte/reverter-acoes-em-lote"
+  },
+  "Lançar férias coletivas": {
+    "resumo": "Procedimento: Lançamento de Férias Coletivas no Genyo",
+    "link": "https://genyo.com.br/suporte/lancar-ferias-coletivas"
+  },
+  "Lançar Ocorrência em Lote": {
+    "resumo": "Procedimento: Lançamento de Ocorrência em Lote no Genyo",
+    "link": "https://genyo.com.br/suporte/lancar-ocorrencia-em-lote"
+  },
+  "Exportar AFD, AFDT e ACJEF": {
+    "resumo": "Procedimento: Exportar Arquivo AFD, AFDT e ACJEF no Genyo",
+    "link": "https://genyo.com.br/suporte/exportar-afd-afdt-e-acjef"
+  },
+  "Importar AFD/AFDT": {
+    "resumo": "Procedimento: Importar Arquivo AFD/AFDT no Genyo",
+    "link": "https://genyo.com.br/suporte/importar-afd-afdt"
+  },
+  "Foto do Colaborador": {
+    "resumo": "Procedimento: Visualizar a Foto do Colaborador no Registro de Ponto no Genyo",
+    "link": "https://genyo.com.br/suporte/foto-do-colaborador"
+  },
+  "Localização do Ponto": {
+    "resumo": "Procedimento: Visualizar a Localização de Ponto Registrado via Aplicativo no Genyo",
+    "link": "https://genyo.com.br/suporte/localizacao-do-ponto"
+  },
+  "Como aprovar ou reprovar ocorrência": {
+    "resumo": "Procedimento: Aprovar ou Reprovar Ocorrência Lançada pelo Colaborador no Genyo\\",
+    "link": "https://genyo.com.br/suporte/aprovar-reprovar-ocorrencia"
+  },
+  "Aprovar Ponto": {
+    "resumo": "Procedimento: Aprovar Ponto Pendente por Correção ou Lançamento Manual no Genyo",
+    "link": "https://genyo.com.br/suporte/aprovar-ponto"
+  },
+  "Reprovar Ponto": {
+    "resumo": "Procedimento: Reprovar um Ponto no Genyo",
+    "link": "https://genyo.com.br/suporte/reprovar-ponto"
+  },
+  "Lançar Ocorrência": {
+    "resumo": "Procedimento: Lançar Ocorrência Abonada no Genyo",
+    "link": "https://genyo.com.br/suporte/lancar-ocorrencia"
+  },
+  "Lançar Ponto Manual": {
+    "resumo": "Procedimento: Esse simples passo a passo ensina como lançar um ponto manual no Genyo.",
+    "link": "https://genyo.com.br/suporte/lancar-ponto-manual"
+  },
+  "Como corrigir e editar ponto no Genyo": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como corrigir e editar ponto no Genyo.",
+    "link": "https://genyo.com.br/suporte/corrigir-ajustar-editar-ponto"
+  },
+  "Como inserir o cupom de Parceiro após a conta criada": {
+    "resumo": "Procedimento: Se você é um afiliado da Genyo, o que vincula os seus dados com o de um cliente indicado por você é o seu exclusivo cupom de parceiro. Vamos aprender como vinculá-lo a você caso seu indicado não tenha criado uma conta usando o seu link exclusivo.",
+    "link": "https://genyo.com.br/suporte/como-inserir-o-cupom-de-parceiro-apos-a-conta-criada"
+  },
+  "Inserindo seu cupom na tela de Planos": {
+    "resumo": "Procedimento: Se você é um cliente e possui um cupom promocional ou foi indicado por um parceiro e precisa vincular a sua conta a ele para ter a maior experiência com o Genyo, não deixe de realizar o procedimento abaixo.",
+    "link": "https://genyo.com.br/suporte/inserindo-seu-cupom-na-tela-de-planos"
+  },
+  "Como antecipar a geração do boleto": {
+    "resumo": "Procedimento: Neste artigo vamos te mostrar como antecipar a criação de um boleto do Genyo, visando pagá-lo antes mesmo da data de geração original.",
+    "link": "https://genyo.com.br/suporte/antecipar-a-geracao-do-boleto"
+  },
+  "Como alterar forma de pagamento": {
+    "resumo": "Procedimento: Neste artigo vamos te ensinar a alterar forma de pagamento da sua conta aqui no Genyo, se sua empresa já possui uma conta de assinante.",
+    "link": "https://genyo.com.br/suporte/como-alterar-forma-de-pagamento"
+  },
+  "2° via de boleto": {
+    "resumo": "Procedimento: Esse simples passo a passo ensina como gerar uma segunda via do boleto no Genyo.",
+    "link": "https://genyo.com.br/suporte/2-via-de-boleto"
+  },
+  "Qual a diferença entre os planos do Genyo?": {
+    "resumo": "Procedimento: Entenda a diferença entre os três planos do Genyo e combine funcionalidades de acordo com a necessidade da sua empresa!",
+    "link": "https://genyo.com.br/suporte/qual-a-diferenca-entre-os-planos-do-genyo"
+  },
+  "Retornar à conta grátis": {
+    "resumo": "Procedimento: Infelizmente uma vez que você faz a assinatura não é possível mais se tornar usuário gratuito, conforme preza nossos Termos de Uso aceito no momento da assinatura do Genyo.",
+    "link": "https://genyo.com.br/suporte/retornar-a-conta-gratis"
+  },
+  "Como cancelar minha assinatura no Genyo?": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como realizar o cancelamento de conta no Genyo.",
+    "link": "https://genyo.com.br/suporte/como-cancelar-minha-assinatura-no-genyo"
+  },
+  "Como alterar meu plano no Genyo?": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como realizar alteração de plano no Genyo. Você pode fazer um upgrade e até mesmo um downgrade, se desejar.",
+    "link": "https://genyo.com.br/suporte/como-alterar-meu-plano-no-genyo"
+  },
+  "Assinar um plano do Genyo": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como realizar a assinatura no Genyo.",
+    "link": "https://genyo.com.br/suporte/assinar-um-plano-do-genyo"
+  },
+  "Funcionalidade Assinatura Eletrônica – Colaborador": {
+    "resumo": "Procedimento: A funcionalidade Assinatura Eletrônica serve para facilitar a interação entre o colaborador e a empresa para assinar os relatórios do controle de ponto eletrônico digital Genyo. É muito fácil utilizá-la e vamos te mostrar abaixo o passo a passo para que isso seja feito!",
+    "link": "https://genyo.com.br/suporte/funcionalidade-assinatura-eletronica-colaborador"
+  },
+  "Funcionalidade Assinatura Eletrônica – Empresa": {
+    "resumo": "Procedimento: Assinatura Eletrônica",
+    "link": "https://genyo.com.br/suporte/funcionalidade-assinatura-eletronica-empresa"
+  },
+  "Exportar relatório de banco de horas": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como emitir o relatório do banco de horas do tipo simplificado (com períodos agrupados) e também do tipo detalhado (dia a dia) no Genyo.",
+    "link": "https://genyo.com.br/suporte/exportar-relatorio-de-banco-de-horas"
+  },
+  "Exportar relatório de horas extras": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como emitir o relatório de horas extras no Genyo.",
+    "link": "https://genyo.com.br/suporte/exportar-relatorio-de-horas-extras"
+  },
+  "Exportar relatório de folha de ponto": {
+    "resumo": "Procedimento: Este simples passo a passo ensina como emitir relatórios de folha de ponto no Genyo.",
+    "link": "https://genyo.com.br/suporte/exportar-relatorio-de-folha-de-ponto"
+  },
+  "Alterar colaborador de unidade de trabalho": {
+    "resumo": "Devido as alterações da portaria 671, não é mais possível alterar a unidade de trabalho de um colaborador que já teve o perfil salvo, isso acontece, pois ao criar o perfil dele é gerado um número único que é vinculado a essa unidade e ele não pode ter mais alterações. Então, em caso de troca de unidade do colaborador o que deve ser feito é o seguinte: O primeiro passo é emitir os relatórios do colaborador até a data que ele ficou na última unidade, como a folha de ponto, banco de horas ou horas extras (a depender do pagamento da empresa), depois que fizer isso você vai excluir esse perfil do colaborador e vai criar um novo para ele vinculando a essa nova unidade. É importante salvar o relatório dele antes pois ao excluir o perfil e criar um novo os registros dele começarão do zero.",
+    "link": "Link não encontrado"
+  },
+  "Bloquear colaborador de registrar o ponto": {
+    "resumo": "Segundo as determinações da CLT, não é possível bloquear o colaborador para não registrar o ponto, o que você pode fazer é reprovar os pontos que forem indevidos, é aplicar medidas cabíveis ao colaborador, caso ele persista em registrar o ponto indevidamente.",
+    "link": "Link não encontrado"
+  }
+}
